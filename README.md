@@ -59,8 +59,8 @@ Buat program sederhana untuk menambahkan data kedalam sebuah list dengan rincian
 - Buat flowchart dan penjelasan programnya pada README.md. 
 - Commit dan push repository ke github 
 ## Program
-![Gambar10](.png)
+![Gambar10](T5.1.png)
 ## output
-![Gambar11(.png)
+![Gambar11(T5.2.png)
 Flowchart 
 ![Gambar12](.png)
